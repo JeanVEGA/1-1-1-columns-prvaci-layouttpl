@@ -10,11 +10,11 @@
 	<parent>
 		<groupId>eu.prvaci</groupId>
 		<artifactId>layout-parent</artifactId>
-		<version>1.0</version>
+		<version>6.2.0-ga1</version>
 	</parent>
 
 	<properties>
-		<liferay.auto.deploy.dir>/home/vega/Liferay/liferay-portal-6.1.2-ce-ga3/deploy/</liferay.auto.deploy.dir>
+		<liferay.auto.deploy.dir>/home/vega/Liferay/liferay-portal-6.2.0-ce-ga1/deploy/</liferay.auto.deploy.dir>
 	</properties>
 
 </project>
